@@ -76,7 +76,7 @@
     "react-app-polyfill": "^1.0.2",
     "react-bootstrap": "^0.33.1",
     "react-content-loader": "^4.2.2",
-    "react-dev-utils": "^9.0.3",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.9.0",
     "string-template": "^1.0.0",
     "ws": "^7.1.2",
